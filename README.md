@@ -14,7 +14,6 @@
 
 ## 💡 Why Use ENST?
 
-- **Accessible:** Works via a user-friendly website (coming soon)
 - **Customizable:** Developers can easily optimize or extend the tool
 - **Modern:** Built using state-of-the-art neural networks
 
@@ -32,7 +31,6 @@
 
 - Python, TensorFlow
 - Neural Style Transfer algorithm
-- Web interface (launching soon)
 
 ---
 
